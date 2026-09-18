@@ -116,8 +116,4 @@ npm run build
 
 ## 🚀 Live Site
 
-Live Link: `https://movie-explorer-ecru-delta.vercel.app/`
-
-## 👨‍💻 Author
-
-Tamim Ahmed
+Live Link: [Live Here]`https://movie-explorer-ecru-delta.vercel.app/`
