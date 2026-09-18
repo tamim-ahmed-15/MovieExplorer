@@ -114,13 +114,9 @@ To create a production build:
 npm run build
 ```
 
-## 🔗 GitHub Repository
-
-https://github.com/tamim-ahmed-15/MovieExplorer
-
 ## 🚀 Live Site
 
-Live Link: `ADD_DEPLOYMENT_LINK_HERE`
+Live Link: `https://movie-explorer-ecru-delta.vercel.app/`
 
 ## 👨‍💻 Author
 
