@@ -116,4 +116,4 @@ npm run build
 
 ## 🚀 Live Site
 
-Live Link: [Live Here]`https://movie-explorer-ecru-delta.vercel.app/`
+Live Link: https://movie-explorer-ecru-delta.vercel.app/
